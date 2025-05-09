@@ -1,0 +1,5 @@
+print("My name is Muhammad Musa")
+# print(2+4)
+print("my age=",5+5+8)
+print("the time is=10.53.18")
+print("the date today is 1/9/2024")
